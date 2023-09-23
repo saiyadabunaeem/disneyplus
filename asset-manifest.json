@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/disneyplusclone/static/css/main.79834eff.css",
-    "main.js": "/disneyplusclone/static/js/main.2e6cce76.js",
-    "static/js/787.e72b8c84.chunk.js": "/disneyplusclone/static/js/787.e72b8c84.chunk.js",
-    "static/media/slick.svg": "/disneyplusclone/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/disneyplusclone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/disneyplusclone/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/disneyplusclone/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/disneyplusclone/index.html",
-    "main.79834eff.css.map": "/disneyplusclone/static/css/main.79834eff.css.map",
-    "main.2e6cce76.js.map": "/disneyplusclone/static/js/main.2e6cce76.js.map",
-    "787.e72b8c84.chunk.js.map": "/disneyplusclone/static/js/787.e72b8c84.chunk.js.map"
+    "main.css": "/disneyplus/static/css/main.5e47593b.css",
+    "main.js": "/disneyplus/static/js/main.47f64d8f.js",
+    "static/js/787.e72b8c84.chunk.js": "/disneyplus/static/js/787.e72b8c84.chunk.js",
+    "static/media/slick.svg": "/disneyplus/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/disneyplus/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/disneyplus/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/disneyplus/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/disneyplus/index.html",
+    "main.5e47593b.css.map": "/disneyplus/static/css/main.5e47593b.css.map",
+    "main.47f64d8f.js.map": "/disneyplus/static/js/main.47f64d8f.js.map",
+    "787.e72b8c84.chunk.js.map": "/disneyplus/static/js/787.e72b8c84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79834eff.css",
-    "static/js/main.2e6cce76.js"
+    "static/css/main.5e47593b.css",
+    "static/js/main.47f64d8f.js"
   ]
 }
